@@ -1,0 +1,90 @@
+﻿Código especifico;Causa;Código general;Causa general;Grupo de causa
+1.1.1;1.1.1 Quema avisada de desechos forestales que se propaga libre y sin control;1.1;1.1 Faenas forestales;Grupo 1 - Accidentales
+1.1.2;1.1.2 Partículas incandescentes generadas por roce de maquinaria o herramienta forestal con rocas, cercos o material metálico;1.1;1.1 Faenas forestales;Grupo 1 - Accidentales
+1.1.3;1.1.3 Otros incendios accidentales no clasificados en faenas forestales;1.1;1.1 Faenas forestales;Grupo 1 - Accidentales
+1.2.1;1.2.1 Quema avisada de desechos agrícolas  que se propaga libre y sin control;1.2;1.2 Faenas agrícolas y pecuarias;Grupo 1 - Accidentales
+1.2.2;1.2.2 Partículas incandescentes  generadas por roce de maquinaria o herramienta agrícola con rocas, cercos o material metálico;1.2;1.2 Faenas agrícolas y pecuarias;Grupo 1 - Accidentales
+1.2.3;1.2.3 Otros incendios accidentales no clasificados en faenas agropecuarias;1.2;1.2 Faenas agrícolas y pecuarias;Grupo 1 - Accidentales
+1.3.1;1.3.1 Empleo de fuentes de calor en áreas habilitadas, como fogatas, cocinillas u otro elemento para cocinar, calefacción, iluminación u otros fines;1.3;1.3 Actividades al aire libre (camping, excursiones, caza, pesca, otros);Grupo 1 - Accidentales
+1.4.1;1.4.1 Accidente ferroviario;1.4;1.4 Vías férreas;Grupo 1 - Accidentales
+1.4.2;1.4.2 Partículas incandescentes generadas por el paso del ferrocarril (con mantención de fajas de seguridad);1.4;1.4 Vías férreas;Grupo 1 - Accidentales
+1.5.1;1.5.1 Caída de avión, helicóptero u otras aeronaves, en operaciones de combate de incendios forestales o reconocimientos de zonas;1.5;1.5 Actividades de control y extinción de incendios forestales;Grupo 1 - Accidentales
+1.6.1;1.6.1 Incendio estructural;1.6;1.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 1 - Accidentales
+1.7.1;1.7.1 Accidente o incendio de vehículo;1.7;1.7 Originados por desplazamiento de personas, vehículos o aeronaves;Grupo 1 - Accidentales
+1.7.2;1.7.2 Caída de avión, helicóptero u otras aeronaves en actividades u operaciones, distintas de incendios forestales;1.7;1.7 Originados por desplazamiento de personas, vehículos o aeronaves;Grupo 1 - Accidentales
+1.7.3;1.7.3 Generado por vehículo  (roce metálico, tubo de escape, desperfecto, otros);1.7;1.7 Originados por desplazamiento de personas, vehículos o aeronaves;Grupo 1 - Accidentales
+1.8.1;1.8.1 Quema avisada con fines de limpieza en canales, cunetas, cercos o caminos (en predios particulares o públicos) que se propaga libre y sin control;1.8;1.8 Otras quemas;Grupo 1 - Accidentales
+1.9.1;1.9.1 Contacto de fauna con el tendido eléctrico;1.9;1.9 Líneas eléctricas;Grupo 1 - Accidentales
+1.9.2;1.9.2 Contacto de material vegetal (ej. Corteza de eucalipto) o no vegetal (ej. Pizarreños), desprendido y desplazado por acción del viento, con el tendido eléctrico;1.9;1.9 Líneas eléctricas;Grupo 1 - Accidentales
+1.9.3;1.9.3 Otro accidente eléctrico no clasificado;1.9;1.9 Líneas eléctricas;Grupo 1 - Accidentales
+1.10.1;1.10.1 Otras causas accidentales no clasificadas;1.10;1.10 Otras causas;Grupo 1 - Accidentales
+2.1.1;2.1.1 No se identifica la motivación;2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.2;2.1.2 Conflicto entre personas (venganza, familiares, pasionales, otros);2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.3;2.1.3 Ataque incendiario (ataques dirigidos a bienes muebles o inmuebles);2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.4;2.1.4 Conflicto territorial o patrimonial (deslindes, propiedades, apropiaciones de terreno, otros);2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.5;2.1.5 Obtención beneficios económicos (compra de madera, presión por trabajo, robo  maderero, otros);2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.6;2.1.6 Para observar operaciones de combate de incendios forestales;2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.7;2.1.7 Encubrimiento de delitos o faltas;2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.8;2.1.8 Extracción o producción de hongos o frutos;2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+2.1.9;2.1.9 Cambio irregular de uso de suelo (habitacional, parcelaciones, agrícola, recreacional, otros);2.1;2.1 Incendios intencionales;Grupo 2 - Intencionales
+3.1.1;3.1.1 Caída de rayo;3.1;3.1 Incendios naturales;Grupo 3 - Naturales
+3.1.2;3.1.2 Actividad volcánica;3.1;3.1 Incendios naturales;Grupo 3 - Naturales
+3.1.3;3.1.3 Otras causas naturales no clasificadas;3.1;3.1 Incendios naturales;Grupo 3 - Naturales
+4.1.1;4.1.1 Quema no avisada de desechos forestales que se propaga libre y sin control;4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.2;4.1.2 Incendio de maquinaria en faena forestal (desperfecto, falta de mantención, otros);4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.3;4.1.3 Contacto o corte de conductor eléctrico producto de faena forestal;4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.4;4.1.4 Partícula incandescente generada sin roce por vehículo, maquinaria o herramienta forestal;4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.5;4.1.5 Rebrote de quema forestal no avisada que  se propaga libre y sin control;4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.6;4.1.6 Quema avisada de desechos forestales mal ejecutada que se propaga libre y sin control (plan de quemas, aviso de quemas);4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.7;4.1.7 Empleo de fuentes de calor en zonas de faenas/campamentos forestales;4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.1.8;4.1.8 Otras causas negligentes no clasificadas en faenas forestales;4.1;4.1 Faenas forestales;Grupo 4 - Negligentes
+4.2.1;4.2.1 Quema no avisada de desechos agrícolas que se propaga libre y sin control;4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.2;4.2.2 Incendio de maquinaria agrícola (desperfecto, falta de mantención, otros);4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.3;4.2.3 Contacto o corte de conductor eléctrico producto de faena agrícola o pecuaria;4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.4;4.2.4 Partícula incandescente generada sin roce por vehículo, maquinaria o herramienta agrícola;4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.5;4.2.5 Rebrote de quema agrícola o pecuaria no avisada que se propaga libre y sin control;4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.6;4.2.6 Quema avisada de desechos agrícolas  mal ejecutada que se propaga libre y sin control (según plan de quema y/o aviso de quemas);4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.7;4.2.7 Empleo de fuentes de calor en zonas de faenas agropecuarias;4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.2.8;4.2.8 Otras causas negligentes no clasificadas en faenas agrícolas y pecuarias;4.2;4.2 Faenas agrícolas y pecuarias;Grupo 4 - Negligentes
+4.3.1;4.3.1 Empleo de fuentes de calor en áreas no habilitadas, como fogatas para cocinar, cocinillas, calefacción, elementos para iluminar u otros.;4.3;4.3 Actividades al aire libre (camping, excursiones, caza, pesca, otros);Grupo 4 - Negligentes
+4.4.1;4.4.1 Partículas  incandescentes generadas por el paso del ferrocarril (sin mantención de fajas de seguridad);4.4;4.4 Vías férreas;Grupo 4 - Negligentes
+4.4.2;4.4.2 Empleo de fuentes de calor en faena de mantención o reparación de líneas férreas;4.4;4.4 Vías férreas;Grupo 4 - Negligentes
+4.4.3;4.4.3 Contacto  o corte del conductor eléctrico de línea férrea;4.4;4.4 Vías férreas;Grupo 4 - Negligentes
+4.5.1;4.5.1 Rebrote de incendio anterior, declarado extinto;4.5;4.5 Actividades de control y extinción de incendios forestales;Grupo 4 - Negligentes
+4.5.2;4.5.2 Generado por el uso de equipos o herramientas en actividades de control y/o extinción;4.5;4.5 Actividades de control y extinción de incendios forestales;Grupo 4 - Negligentes
+4.6.1;4.6.1 Generado por el uso de equipos o herramientas con fines de construcción, limpieza o montaje de estructuras;4.6;4.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 4 - Negligentes
+4.6.2;4.6.2 Generado por conexión  irregular de energía eléctrica;4.6;4.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 4 - Negligentes
+4.6.3;4.6.3 Generado por infraestructura destinada a la producción de energía  (solar, eólica, otros);4.6;4.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 4 - Negligentes
+4.6.4;4.6.4 Generado por material en combustión expulsado desde chimeneas, cocina a leña, otros (mantención);4.6;4.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 4 - Negligentes
+4.6.5;4.6.5 Empleo de fuentes de calor en actividades relacionadas a parcelaciones (asados, tijerales, fogatas, otros);4.6;4.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 4 - Negligentes
+4.6.6;4.6.6 Desecho de  cenizas de chimenea, calefacción, cocina leña, tinajas, otros;4.6;4.6 Parcelaciones, edificaciones residenciales, industriales u otras en zonas rurales o de interfaz;Grupo 4 - Negligentes
+4.7.1;4.7.1 Empleo de fuentes de calor en actividades religiosas, de peregrinación o de veneración;4.7;4.7 Originados por desplazamiento de personas, vehículos o aeronaves;Grupo 4 - Negligentes
+4.7.2;4.7.2 Empleo de fuentes de calor para señalización en la ruta o faenas de mantención (campamentos de empresas de mantención, otras);4.7;4.7 Originados por desplazamiento de personas, vehículos o aeronaves;Grupo 4 - Negligentes
+4.8.1;4.8.1 Quema no avisada con fines de limpieza en canales, cunetas, cercos o caminos (en predios particulares o públicos) que se propaga libre y sin control;4.8;4.8 Otras quemas;Grupo 4 - Negligentes
+4.8.2;4.8.2 Quema de basura residencial o desechos vegetales;4.8;4.8 Otras quemas;Grupo 4 - Negligentes
+4.8.3;4.8.3 Quema de desechos industriales;4.8;4.8 Otras quemas;Grupo 4 - Negligentes
+4.8.4;4.8.4 Empleo de fuentes de calor para eliminación de fauna  (roedores, reptiles, avispas, otros);4.8;4.8 Otras quemas;Grupo 4 - Negligentes
+4.8.5;4.8.5 Empleo de fuentes de calor en vertederos o basurales;4.8;4.8 Otras quemas;Grupo 4 - Negligentes
+4.9.1;4.9.1 Combustión de la vegetación, producto del contacto o proximidad con el tendido eléctrico;4.9;4.9 Líneas eléctricas;Grupo 4 - Negligentes
+4.9.2;4.9.2 Corte de conductor eléctrico por caída de rama o árbol (excepto por faena forestal o agrícola);4.9;4.9 Líneas eléctricas;Grupo 4 - Negligentes
+4.9.3;4.9.3 Corte de conductor eléctrico por caída o fatiga de estructura de tendido eléctrico o postación;4.9;4.9 Líneas eléctricas;Grupo 4 - Negligentes
+4.9.4;4.9.4 Sobrecalentamiento de estructuras asociados al sistema eléctrico (poste, transformador, uniones, aisladores, otros);4.9;4.9 Líneas eléctricas;Grupo 4 - Negligentes
+4.9.5;4.9.5 Otras causas eléctricas negligentes no  clasificadas;4.9;4.9 Líneas eléctricas;Grupo 4 - Negligentes
+4.10.1;4.10.1 Maniobras militares o policiales;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.2;4.10.2 Faenas mineras;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.3;4.10.3 Explosiones;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.4;4.10.4 Acciones asociadas a fumar;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.5;4.10.5 Empleo de fuentes de calor por menores de edad;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.6;4.10.6 Fuegos artificiales, bengalas, otros artefactos pirotécnicos o globos aerostáticos;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.7;4.10.7 Elaboración y/o cocción de ladrillos;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.8;4.10.8 Ignición por combustión espontánea en combustibles orgánicos  (fardos de pastos, acopios de aserrín o chips de madera);4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.9;4.10.9 Ignición por combustión espontánea en vertederos sin tratamientos y sin reciclaje;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.10;4.10.10 Empleo de fuentes de calor para eliminar recubrimiento de  conductores eléctricos;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.11;4.10.11 Empleo de fuentes de calor por personas en situación de calle;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.10.12;4.10.12 Otras actividades negligentes no clasificadas;4.10;4.10 Otras causas;Grupo 4 - Negligentes
+4.11.1;4.11.1 Elaboración de carbón;4.11;4.11 Producción y/o extracción de productos y/o derivados del bosque;Grupo 4 - Negligentes
+4.11.2;4.11.2 Empleo de fuentes de calor en faenas de extracción de productos del bosque (hongos, frutos, otros), como fogatas para cocinar, calefacción, elementos para iluminar u otros.;4.11;4.11 Producción y/o extracción de productos y/o derivados del bosque;Grupo 4 - Negligentes
+4.11.3;4.11.3 Empleo de fuentes de calor en faena de extracción y/o confección de leña no industrial;4.11;4.11 Producción y/o extracción de productos y/o derivados del bosque;Grupo 4 - Negligentes
+4.11.4;4.11.4 Empleo de fuentes de calor en actividades de apicultura;4.11;4.11 Producción y/o extracción de productos y/o derivados del bosque;Grupo 4 - Negligentes
+5.1.1;5.1.1 Se investiga pero no es posible establecer la causa;5.1;5.1 Incendios de causa indeterminada;Grupo 5 - Indeterminadas
+5.1.2;5.1.2 La causa no es investigada;5.1;5.1 Incendios de causa indeterminada;Grupo 5 - Indeterminadas
